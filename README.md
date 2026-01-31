@@ -16,7 +16,7 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Omarchy](https://img.shields.io/badge/Omarchy-7C3AED?style=flat&logo=nix&logoColor=white)
 
-Freelance Cloud Engineer with 15+ years in the trenches — from Booking.com and Mollie to Air France and Renault. Now I help startups build cloud-agnostic infrastructure through [ArkOps](https://arkops.io). Passionate about homelab, automation, and the AI revolution. After years of lurking, finally sharing what I've learned. Let's build something 🚀
+> Freelance Cloud Engineer with 15+ years in the trenches — from Booking.com and Mollie to Air France and Renault. Now I help startups build cloud-agnostic infrastructure through [ArkOps](https://arkops.io). Passionate about homelab, automation, and the AI revolution 🚀
 
 ---
 
