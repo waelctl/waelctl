@@ -16,7 +16,7 @@
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 ![Omarchy](https://img.shields.io/badge/Omarchy-7C3AED?style=flat&logo=nix&logoColor=white)
 
-> Building lean, scalable infrastructure for startups. 15+ years turning complex cloud problems into simple solutions. Ex-Booking.com, Mollie, Air France KLM.
+> Cloud Engineer | Founder [arkops.io](https://arkops.io) | DevOps & Infra for startups | Homelab, Automation & AI | Street Photographer 🇹🇳🇫🇷
 
 ---
 
