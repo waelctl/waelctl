@@ -20,12 +20,13 @@
 
 ---
 
-### 🔗 Links
+## Connect
 
-[![Blog](https://img.shields.io/badge/Blog-wael.dev-7C3AED?style=for-the-badge&logo=hashnode&logoColor=white)](https://wael.dev)
-[![ArkOps](https://img.shields.io/badge/ArkOps.io-Hire_Me-10B981?style=for-the-badge&logo=rocket&logoColor=white)](https://arkops.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/waelammar)
-[![X](https://img.shields.io/badge/@waelctl-Follow-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/waelctl)
+[![Twitter](https://img.shields.io/badge/-@waelctl-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/waelctl)
+[![LinkedIn](https://img.shields.io/badge/-Waël_Ammar-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/waelammar)
+[![Blog](https://img.shields.io/badge/-wael.dev-7C3AED?style=flat-square&logo=hashnode&logoColor=white)](https://wael.dev)
+[![ArkOps](https://img.shields.io/badge/-arkops.io-10B981?style=flat-square&logo=rocket&logoColor=white)](https://arkops.io)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/waelctl)
 
 ---
 
